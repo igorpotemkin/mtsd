@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="98b250f8-1c31-496e-b430-efffe8a6456e">
+  <name>МобильныйКлиент</name>
+  <synonym>
+    <key>ru</key>
+    <value>Мобильный клиент</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>DataProcessor.СК_МобСклад</content>
+</mdclass:Subsystem>

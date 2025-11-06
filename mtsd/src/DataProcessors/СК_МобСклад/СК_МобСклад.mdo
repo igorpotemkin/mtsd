@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="159aa4ab-93c4-4751-8ff3-6ba539535eb1">
+  <producedTypes>
+    <objectType typeId="bb332a81-9092-48ee-b05d-d5565353270b" valueTypeId="17fb7117-ce53-4459-a4f8-69fc4b2be5be"/>
+    <managerType typeId="cf2fdd00-eda5-4712-94fc-56025fa1d9c6" valueTypeId="70294168-a3bb-46eb-b82b-b942119a9a5c"/>
+  </producedTypes>
+  <name>СК_МобСклад</name>
+  <synonym>
+    <key>ru</key>
+    <value>Мобильный склад</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.СК_МобСклад.Form.Форма</defaultForm>
+  <forms uuid="6fa5b1f5-4231-4794-b599-fc591e9afbe2">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="f08cbadc-491e-4a2f-af62-472a011a0b2b">
+    <name>ФормаПоступления</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма поступления</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="df768cc9-1045-4135-83ec-e9f7391a537a">
+    <name>НоменклатураПоШК</name>
+    <synonym>
+      <key>ru</key>
+      <value>Номенклатура по ШК</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="f0caf326-2b80-4001-b4a3-d20c56acd652">
+    <name>ФормаПеремещения</name>
+    <synonym>
+      <key>ru</key>
+      <value>ФормаПеремещения</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="65df2880-5ab2-483f-91f3-fa5df6551367">
+    <name>ФормаЗаданиеНаПечать</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма задание на печать</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="5369da32-cbe4-4798-b1bd-9f0190a0d235">
+    <name>ИнформацияПоЯчейке</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация по ячейке</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="b0a92c93-4d7e-4cf2-91e4-61147cc2a403">
+    <name>Инвентаризация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Инвентаризация</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="f71e35dc-5b4c-416c-b2b0-e096e1ac6bd8">
+    <name>ФормаПароль</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма пароль</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="0e3f9cec-04fb-41b6-930d-94dd12071e8f">
+    <name>СписаниеСклад</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списание склад</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="5f445716-44f1-42db-b541-0210bd11ebf8">
+    <name>ФормаСборкиЗаказа</name>
+    <synonym>
+      <key>ru</key>
+      <value>ФормаСборкиЗаказа</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="135e0666-6668-419f-b83e-e6f64b9dfbab">
+    <name>ФормаРеализации</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма реализации</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="a9939ab3-a785-4236-857c-6b5c4e55d071">
+    <name>СписокСборка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Список сборка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="5b4a0c09-1177-46b9-8a4b-2620d0b0344a">
+    <name>ФормаВП</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма внутреннего потребления</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="368e8461-7d4a-4458-81b3-43beae11cc59">
+    <name>ФормаРазмещения</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма размещения</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
